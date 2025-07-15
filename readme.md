@@ -33,6 +33,6 @@ The API Discovery Agent is an intelligent system built using LangChain and tool-
 - Markdown/JSON I/O
 
 # Some of the sample input APIs are as follows:
-https://datacatalog.cookcountyil.gov/resource/3r7i-mrz4.json
-https://datacatalog.cookcountyil.gov/resource/y282-6ig3.json
-https://datacatalog.cookcountyil.gov/resource/uzyt-m557.json
+- https://datacatalog.cookcountyil.gov/resource/3r7i-mrz4.json
+- https://datacatalog.cookcountyil.gov/resource/y282-6ig3.json
+- https://datacatalog.cookcountyil.gov/resource/uzyt-m557.json
